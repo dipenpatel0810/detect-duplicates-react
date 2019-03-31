@@ -1,3 +1,19 @@
+This is the front-end application made using ReactJS.
+It is deployed on Heroku.
+The URL is [https://detect-duplicate.herokuapp.com/]
+
+You are given 3 options.
+1) Process normal.csv file : This would process the normal.csv file and
+display the duplicate and unique records of that file.
+
+2) Process advanced.csv file : This would process the advanced.csv file
+and display the duplicate and unique records of that file.
+ 
+3) Clear results: It would clear the records from screen.
+
+The application is build using React along with Bootstrap which means 
+it is responsive i.e Mobile friendly too.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
